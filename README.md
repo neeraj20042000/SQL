@@ -45,6 +45,6 @@ Tables of the database is as follows:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/neeraj20042000/python_project.git
+git clone https://github.com/neeraj20042000/SQL.git
 ```
 
